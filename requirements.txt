@@ -1,0 +1,5 @@
+install:
+-numpy
+-argparse
+-matplotlib
+-scipy
